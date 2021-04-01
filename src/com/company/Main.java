@@ -9,5 +9,8 @@ public class Main {
 
     int result2 = BinarySearcher.findMidpoint(1,100);
     System.out.println(result2);
+
+    int result3 = BinarySearcher.findMidpoint(1,1000);
+    System.out.println(result3);
     }
 }
